@@ -1,0 +1,9 @@
+/* Styles go here! */
+
+.container {
+  max-width: 600px;
+}
+
+.text--centered {
+  text-align: center;
+}
